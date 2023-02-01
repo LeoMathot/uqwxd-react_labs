@@ -27,6 +27,7 @@ h1 {
     margin-right: 16px;
   }
   .todo {
+    text-align: center;
     display: flex;
     flex-direction: column;
   }
