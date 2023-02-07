@@ -1,0 +1,14 @@
+.increment-btn {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 20px;
+    color: #f6f6fc;
+    background-color: #407090;
+    border: none;
+    border-radius: 5px;
+    font-size: 2em;
+}
+
+.increment-btn:hover {
+    background-color: #304050;
+}
